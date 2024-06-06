@@ -1,0 +1,7 @@
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/template.dir
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/edit_cache.dir
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/rebuild_cache.dir
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/list_install_components.dir
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/install.dir
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/install/local.dir
+/home/danisgaripov/software/geant4/geant4-v11.1.0/examples/DanisWorks/Brems/Ta800kev100mkm/build/CMakeFiles/install/strip.dir
